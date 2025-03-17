@@ -1,0 +1,44 @@
+{
+  "name": "tars",
+  "version": "1.0.0",
+  "description": "An AI-powered CLI assistant using Google's Gemini API",
+  "main": "index.js",
+  "type": "module",
+  "bin": {
+    "tars": "./index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "openai": "^4.28.0"
+  },
+  "keywords": [
+    "cli",
+    "ai",
+    "google-api",
+    "chat",
+    "gemini",
+    "terminal",
+    "ai-assistant",
+    "command-line"
+  ],
+  "author": "Abdullah Adeeb",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AbdullahAdeebx/tars.git"
+  },
+  "bugs": {
+    "url": "https://github.com/AbdullahAdeebx/tars/issues"
+  },
+  "homepage": "https://github.com/AbdullahAdeebx/tars#readme",
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "files": [
+    "index.js",
+    "README.md",
+    "LICENSE"
+  ]
+} 

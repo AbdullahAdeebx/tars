@@ -15,7 +15,7 @@ Tars is a command-line interface (CLI) application that lets you chat with Googl
 
 ```bash
 # Install globally from npm
-npm install -g tars
+npm install -g @abdullahadeeb/tars
 ```
 
 ## Usage

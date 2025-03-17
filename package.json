@@ -1,5 +1,5 @@
 {
-  "name": "tars",
+  "name": "@abdullahadeeb/tars",
   "version": "1.0.0",
   "description": "An AI-powered CLI assistant using Google's Gemini API",
   "main": "index.js",
